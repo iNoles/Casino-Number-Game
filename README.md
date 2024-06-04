@@ -44,6 +44,9 @@ g++ -o game main.cpp
 
 Once you run the game, follow the instructions on the screen to make guesses. Enter your guess when prompted, and the game will provide feedback until you guess the correct number.
 
+## Screenshot
+<img src="https://raw.githubusercontent.com/iNoles/Casino-Number-Game/main/Screenshot.png">
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please open an issue first to discuss your ideas.
